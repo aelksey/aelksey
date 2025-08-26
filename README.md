@@ -3,43 +3,44 @@
 ## Студент 🎒 3-его курса [НГТУ](https://nstu.ru/) 🏫
 ## Направление ["Программная Инженерия"](https://ciu.nstu.ru/kaf/vt/study_activity/specs/spec_info?id_facultet_okso=3075&id_training_form=1&dist=0&id_spec=6609)
 
-### 💡 Мои проекты:
+### ✅ Мои проекты:
 
 * Летняя школа Eltex по системному программированию:
 
+    https://github.com/aelksey/eltex-practices
 
 
 * Курсовая работа C++ & DSA:
 
-
+    https://github.com/aelksey/courseworkRepo
 
 * Тестовое задание для стажировки ШИФТ от ЦФТ:
 
-
+    https://github.com/aelksey/util
 
 * MVP проект хакатона Secur'IT Cup 2023: 
 
-
+    https://github.com/aelksey/kaspersky_hack_mvp
 
 ### 💡 Мои интересы:
 
-*  ⭐️ Мобильная раработка  Android ( Kotlin, Java, Flutter )
+*  💥 Мобильная раработка  Android ( Kotlin, Java, Flutter )
 
-*  ⭐️ Desktop и web разработка Java ( JavaFX, Spring, Spring Boot )
+*  💥 Desktop и web разработка Java ( JavaFX, Spring, Spring Boot )
 
-*  ⭐️ Системное программирование Linux и разработка модулей ядра (linux-kernel modules)
+*  💥 Системное программирование Linux и разработка модулей ядра (linux-kernel modules)
 
-* ⭐️ Web-разработка Python ( FastAPI, Flask, Requests, Beatiful Soup, Django )
+* 💥 Web-разработка Python ( FastAPI, Flask, Requests, Beatiful Soup, Django )
 
-* ⭐️ Реляционные базы данных ( PostgresSQL, MySQL )
+* 💥 Реляционные базы данных ( PostgresSQL, MySQL )
 
-* ⭐️ Искуственный интеллект и prompt-engineering ( Deepseek, Chatgpt, Github Copilot, Claude Code )
+* 💥 Искуственный интеллект и prompt-engineering ( Deepseek, Chatgpt, Github Copilot, Claude Code )
 
-* ⭐️ Сетевые технологии ( OSI, TCP/IP, Wireshark, GNS3 )
+* 💥 Сетевые технологии ( OSI, TCP/IP, Wireshark, GNS3 )
 
 ### 🧠 Технологии и фрэймворки, которыми я владею :
 
-✔️ Языки программирования :
+☑️ Языки программирования :
 
 * [C](https://ru.wikipedia.org/wiki/%D0%A1%D0%B8_(%D1%8F%D0%B7%D1%8B%D0%BA_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F))
 
@@ -52,7 +53,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/ru/thumb/3/39/Java_logo.svg/234px-Java_logo.svg.png?20230113103550" height=60>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png" height=50>
 
-✔️ Фрэймворки :
+☑️ Фрэймворки :
 
 * [JavaFX](https://openjfx.io/)
 * [Flask](https://flask.palletsprojects.com/en/stable/)
@@ -63,7 +64,7 @@
 
 
 
-✔️ Инструменты компиляции :
+☑️ Инструменты компиляции :
 
 * [GCC (GNU Compiler Collection)](https://gcc.gnu.org/)
 
@@ -73,7 +74,7 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzklUmPa1yMPwXaFZCFd7wDJGbRJSlEe_03Q&s" height=70>
 
 
-✔️ Сетевые технологии :
+☑️ Сетевые технологии :
 
 * [Модель OSI](https://www.geeksforgeeks.org/computer-networks/open-systems-interconnection-model-osi/)
 
@@ -89,24 +90,22 @@ https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrZ_33qv-MZw3sG4kX9kZrqpwN
 <img src="https://www.wireshark.org/_astro/wca.C_vSXqTJ_Z2rsqHK.png" height=70>
 
 
-✔️ Базы данных :
+☑️ Базы данных :
 
-* [MySQL]()
+* [MySQL](https://www.mysql.com/)
 
-* [PostgresSQL]()
+* [PostgresSQL](https://www.postgresql.org/)
 
-<img src="" height=50>
-<img src="" height=50>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7VofdmPnt1ZYROHeZIHLROMfi5jVQiNq61A&s" height=100>
+<img src="https://serverflow.ru/upload/iblock/3d5/egzmidpizbtch1m1klyz0xkqkucrvjs5/postgresql-cover.png" height=100>
 
-✔️ Прочие технологии :
+☑️ Прочие технологии :
 
-* [Linux-kernel]()
+* [Linux-kernel](https://www.kernel.org/)
 
-* [Ubuntu]()
+* [Ubuntu](https://ubuntu.com/)
 
-<img src="" height=50>
-<img src="" height=50>
-
-### 🏆️ Хакатоны и Стажировки
+<img src="https://opencode.md/wp-content/uploads/2023/08/Top-8-facts-about-Linux-2.jpg" height=100>
+<img src="https://img.2domains.ru/4d2e7bd33c475784381a64e43e50922f/ru/62694454ef595.png" height=100>
 
 
