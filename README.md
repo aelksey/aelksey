@@ -1,6 +1,6 @@
 <h1 align="left">Привет 👋, я Алексей</h1>
 
-## Студент 🎒 3-его курса [НГТУ](https://nstu.ru/) 🏫
+## Студент 🎒 4-его курса [НГТУ](https://nstu.ru/) 🏫
 ## Направление ["Программная Инженерия"](https://ciu.nstu.ru/kaf/vt/study_activity/specs/spec_info?id_facultet_okso=3075&id_training_form=1&dist=0&id_spec=6609)
 
 ### ✅ Мои проекты:
